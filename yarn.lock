@@ -42,6 +42,11 @@
   resolved "https://registry.yarnpkg.com/@iconify/json-tools/-/json-tools-1.0.10.tgz#d9a7050dbbe8bb29d684d4b3f9446ed2d0bea3cc"
   integrity sha512-LFelJDOLZ6JHlmlAkgrvmcu4hpNPB91KYcr4f60D/exzU1eNOb4/KCVHIydGHIQFaOacIOD+Xy+B7P1z812cZg==
 
+"@iconify/json@^1.1.277":
+  version "1.1.277"
+  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-1.1.277.tgz#e11e01833b05845ce1afc5ad61759804f6ed2eb2"
+  integrity sha512-66n4lsv57iRwtcb2Q8ax8iasVLzFz9VWcqtgobHVrvyfsVqf8hSldJELnTl/gtqayqa35pT4mHEpdfsqt1mnLA==
+
 "@koa/cors@^3.1.0":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@koa/cors/-/cors-3.1.0.tgz#618bb073438cfdbd3ebd0e648a76e33b84f3a3b2"
@@ -1955,6 +1960,11 @@ type-is@^1.6.16:
   dependencies:
     media-typer "0.3.0"
     mime-types "~2.1.24"
+
+typescript@^4.1.3:
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.3.tgz#519d582bd94cba0cf8934c7d8e8467e473f53bb7"
+  integrity sha512-B3ZIOf1IKeH2ixgHhj6la6xdwR9QrLC5d1VKeCSY4tvkqhF2eqd9O7txNlS0PO3GrBAFIdr3L1ndNwteUbZLYg==
 
 uniq@^1.0.1:
   version "1.0.1"

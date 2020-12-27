@@ -1,7 +1,7 @@
 <template>
     <div class="markdown-body" style="padding: 2em 3em">
         <i-logos-vue style="font-size: 2em" />
-        <br />
+        <hr>
         <p>
             Icons
             <i-carbon-app-connectivity />
@@ -13,6 +13,19 @@
     </div>
 </template>
 
+<!-- -->
 <script setup>
     import MdiAlarmOff from "/@vite-icons/mdi/alarm-off.vue";
 </script>
+<!-- -->
+<!--
+<script>
+    import MdiAlarmOff from "/@vite-icons/mdi/alarm-off.vue";
+
+    export default {
+        components: {
+            MdiAlarmOff
+        }
+    }
+</script>
+-->
