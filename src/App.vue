@@ -13,12 +13,13 @@
     </div>
 </template>
 
-<!-- -->
-<script setup>
+<!-- -- >
+< script setup>
     import MdiAlarmOff from "/@vite-icons/mdi/alarm-off.vue";
 </script>
+< !-- -->
+
 <!-- -->
-<!--
 <script>
     import MdiAlarmOff from "/@vite-icons/mdi/alarm-off.vue";
 
@@ -28,4 +29,4 @@
         }
     }
 </script>
--->
+<!-- -->
