@@ -1,6 +1,7 @@
 {
     "name": "svg-icons-vite",
     "version": "0.0.0",
+    "description": "Vite + SVG icons experiment",
     "license": "MIT",
     "scripts": {
         "dev": "vite",
